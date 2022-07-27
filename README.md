@@ -22,6 +22,10 @@ My favourite software packages and libraries
 
 :last_quarter_moon: Arrow
 
+## Scheduling
+
+:1st_place_medal: [Airflow](https://airflow.apache.org/)
+
 ## Testing
 
 :1st_place_medal: [pytest](https://docs.pytest.org/)
