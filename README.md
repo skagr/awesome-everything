@@ -8,7 +8,7 @@ My favourite software packages and libraries
 
 # Python
 
-Dates & times
+## Dates & times
 
 - [Pendulum](https://pendulum.eustace.io/)
 
