@@ -22,6 +22,10 @@ My favourite software packages and libraries
 
 :last_quarter_moon: Arrow
 
+## Testing
+
+:1st_place_medal: [pytest](https://docs.pytest.org/)
+
 ## Visualisation
 
 :1st_place_medal: [Plotly](https://plotly.com/python/)
