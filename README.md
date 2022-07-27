@@ -6,16 +6,22 @@ My favourite software packages and libraries
 
 :1st_place_medal: [VS Code](https://code.visualstudio.com/)
 
-PyCharm 
+:star: PyCharm 
 
-Jupyter Lab
+:star: Jupyter Lab
+
+:last_quarter_moon: Sublime
+
+:last_quarter_moon: Notepad++
 
 # Python
 
 ## Dates & times
 
-- [Pendulum](https://pendulum.eustace.io/)
+:1st_place_medal: [Pendulum](https://pendulum.eustace.io/)
+
+:last_quarter_moon: Arrow
 
 ## Visualisation
 
-- [Plotly](https://plotly.com/python/)
+:1st_place_medal: [Plotly](https://plotly.com/python/)
