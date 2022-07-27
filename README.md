@@ -4,7 +4,11 @@ My favourite software packages and libraries
 
 # Editors & IDEs
 
-- [VS Code](https://code.visualstudio.com/)
+:1st_place_medal: [VS Code](https://code.visualstudio.com/)
+
+PyCharm 
+
+Jupyter Lab
 
 # Python
 
