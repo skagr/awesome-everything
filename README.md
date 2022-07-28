@@ -14,7 +14,17 @@ My favourite software packages and libraries
 
 :last_quarter_moon: Notepad++
 
+# Documentation
+
+:1st_place_medal: [DevDocs](https://devdocs.io/)
+
 # Python
+
+## Dataframes
+
+pandas
+
+pandas_profiling 
 
 ## Dates & times
 
