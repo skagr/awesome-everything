@@ -22,9 +22,9 @@ My favourite software packages and libraries
 
 ## Dataframes
 
-pandas
+:star: pandas
 
-pandas_profiling 
+:star: [pandas_profiling](https://github.com/ydataai/pandas-profiling)
 
 ## Dates & times
 
