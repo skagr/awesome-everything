@@ -2,6 +2,10 @@
 
 My favourite software packages and libraries
 
+# Documentation
+
+:1st_place_medal: [DevDocs](https://devdocs.io/)
+
 # Editors & IDEs
 
 :1st_place_medal: [VS Code](https://code.visualstudio.com/)
@@ -13,10 +17,6 @@ My favourite software packages and libraries
 :last_quarter_moon: Sublime
 
 :last_quarter_moon: Notepad++
-
-# Documentation
-
-:1st_place_medal: [DevDocs](https://devdocs.io/)
 
 # Python
 
