@@ -18,6 +18,10 @@ My favourite software packages and libraries
 
 :last_quarter_moon: Notepad++
 
+# Publishing / Sharing
+
+:star: [Quarto](https://quarto.org)
+
 # Python
 
 ## Dataframes
