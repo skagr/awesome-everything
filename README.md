@@ -24,11 +24,13 @@ My favourite software packages and libraries
 
 # Python
 
-## Dataframes
+## Dataframes / multi-dimensional data structures
 
 :star: pandas
 
 :star: [pandas_profiling](https://github.com/ydataai/pandas-profiling)
+
+:star: [xarray](https://docs.xarray.dev)
 
 ## Dates & times
 
