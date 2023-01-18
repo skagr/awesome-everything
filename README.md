@@ -21,6 +21,7 @@ My favourite software packages and libraries
 # Publishing / Sharing
 
 :star: [Quarto](https://quarto.org)
+- [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
 # Python
 
